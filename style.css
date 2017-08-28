@@ -1,0 +1,11 @@
+body {
+  background-color: lightblue;
+  margin: 40px auto;
+  max-width: 800px;
+  font-family: serif;
+  font-size: 1.25em;
+  line-height: 1.5em;
+  padding: 0 10px;
+}
+
+p.author {display: none;}
