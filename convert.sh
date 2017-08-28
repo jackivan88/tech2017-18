@@ -6,5 +6,5 @@ for f in $FILES
 do
   filename="${f%.*}"
   echo "Converting $f to $filename.html"
-  `pandoc $f -f markdown -t html5 -c style.css -o $filename.html`
+  `pandoc "$f" -f markdown -t html5 -c style.css -o "$filename.html"`
 done
