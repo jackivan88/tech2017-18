@@ -51,7 +51,7 @@ Periods: 5
 
 ## Guided Instruction
 
-1. Youtube: [Checking Your Email](https://youtu.be/5olyFc-E38c)
+1. YouTube: [Checking Your Email](https://youtu.be/5olyFc-E38c)
 
 ## Guided Practice
 
@@ -65,15 +65,39 @@ Windows Login Tutorial (oo. 2,3): Complete this assignment silently so you don't
 
 ## Guided Instruction
 
-
+1. YouTube: [Open Office 365 Web Applications](https://youtu.be/zaF8eLpLkBk)
 
 ## Guided Practice
 
-
+1. Mirror (oo. 2,4): Duplicate the steps of opening OneNote, Calendar, Word, PowerPoint, Excel, OneDrive, Tasks, and Teams through Office.com
 
 ## Independent Practice
 
+1. Close your browser, then open Office.com and open OneNote, Calendar, Word, PowerPoint, Excel, OneDrive, Tasks, and Teams through Office.com. When you have all of them open, stand up.
 
+## Guided Instruction
+
+1. 
+
+## Guided Practice
+
+1. 
+
+## Independent Practice
+
+1. 
+
+## Guided Instruction
+
+1. 
+
+## Guided Practice
+
+1. 
+
+## Independent Practice
+
+1. 
 
 ## Assessment
 
