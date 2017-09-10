@@ -49,23 +49,23 @@ The following information details the expectations we will normally deal with wh
 
 ### Unit 1: Getting Started
 
-Orientation | [Lesson Plan](Lesson 1.1 Orientation LP.html)
+Orientation | [Lesson Plan](Orientation.html)
 
-Logging Into Windows | [Lesson Plan](Lesson 1.2 Logging Into Windows LP.html)
+Logging into Windows | [Lesson Plan](Logging into Windows.html)
 
-[Office.com](Lesson 1.3 Office.com.html) | [Lesson Plan](Lesson 1.3 Office.com LP.html)
+Office.com | [Lesson Plan](Office.com.html)
 
-[OneDrive](Lesson 1.4 OneDrive.html) | [Lesson Plan](Lesson 1.4 OneDrive LP.html)
+OneDrive | [Lesson Plan](OneDrive.html)
 
-[Quizlet](Lesson 1.5 Quizlet.html) | [Lesson Plan](Lesson 1.5 Quizlet LP.html)
+Quizlet | [Lesson Plan](Quizlet.html)
 
-[Keyboarding](Lesson 1.6 Keyboarding.html) | [Lesson Plan](Lesson 1.6 Keyboarding LP.html)
+Keyboarding | [Lesson Plan](Keyboarding.html)
 
-[Word](Lesson 1.7 Word.html) | [Lesson Plan](Lesson 1.7 Word LP.html)
+Word | [Lesson Plan](Word.html)
 
-[Excel](Lesson 1.8 Excel.html) | [Lesson Plan](Lesson 1.8 Excel LP.html)
+Excel | [Lesson Plan](Excel.html)
 
-[PowerPoint](Lesson 1.9 PowerPoint.html) | [Lesson Plan](Lesson 1.9 PowerPoint.html)
+PowerPoint | [Lesson Plan](PowerPoint.html)
 
 ### Unit 2: The Nature of Technology
 
