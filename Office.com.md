@@ -32,8 +32,9 @@ Periods: 5
 ### Period 2
 
 1. Write down tonight's homework in your planner and leave your planner on your desk for me to sign
-2. Turn in your Logging into Windows checksheet to the teacher's desk
-3. Log into your computer and check your email for the Windows Login Tutorial assignment
+2. Have your class supplies ready
+3. Turn in your Logging into Windows checksheet to the teacher's desk
+4. After the quiz, log into your computer and check your email for the Windows Login Tutorial assignment
 
 ### Period 3
 
