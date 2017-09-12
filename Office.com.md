@@ -32,6 +32,8 @@ Periods: 5
 ### Period 2
 
 1. Write down tonight's homework in your planner and leave your planner on your desk for me to sign
+2. Turn in your Logging into Windows checksheet to the teacher's desk
+3. Log into your computer and check your email for the Windows Login Tutorial assignment
 
 ### Period 3
 
@@ -77,27 +79,29 @@ Windows Login Tutorial (oo. 2,3): Complete this assignment silently so you don't
 
 ## Guided Instruction
 
-1. 
+1. Sign up for Quizlet or log in if you already have an account
+2. Join my Quizlet class
+3. Sign up for Typing.com
 
 ## Guided Practice
 
-1. 
+1. ​
 
 ## Independent Practice
 
-1. 
+1. ​
 
 ## Guided Instruction
 
-1. 
+1. ​
 
 ## Guided Practice
 
-1. 
+1. ​
 
 ## Independent Practice
 
-1. 
+1. ​
 
 ## Assessment
 
