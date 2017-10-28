@@ -19,3 +19,20 @@
 1. **technologically literate:** understanding technology, how processes work, and how products are made
 1. **technology:** makes use of human knowledge to convert resources into the goods and services that people need and want
 1. **trade-off:** giving up one option in order to gain a better or more realistic option
+
+## Chapter 2
+
+1. **Agricultural Era:** 
+1. **alloy:** 
+1. **aqueduct:** 
+1. **Bronze Age:** 
+1. **ethical dilemma:** a difficult decision that a person has to make about whether something is write or wrong
+1. **exponential rate of change:** when something changes at an increasing rate over time
+1. **factory system:** 
+1. **hybrid electric vehicle:** combines the engine of a conventional vehicle with the battery and electric motor of an electric vehicle
+1. **Industrial Revolution:** people made goods with machines instead of by hand
+1. **Information Age:** the period of human history beginning in 1947, continuing to the present, and marked by extremely rapid change
+1. **Iron Age:** 
+1. **linear rate of change:** when something changes at the same rate over time
+1. **smelting:** 
+1. **Stone Age:** 
