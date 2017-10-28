@@ -22,15 +22,15 @@
 
 ## Chapter 2
 
-1. **Agricultural Era:** 
+1. **Agricultural Era:** the period of human history where most tools and discoveries were focused on growing and harvesting crops
 1. **alloy:** 
-1. **aqueduct:** 
+1. **aqueduct:** a channel built to carry water
 1. **Bronze Age:** 
 1. **ethical dilemma:** a difficult decision that a person has to make about whether something is write or wrong
 1. **exponential rate of change:** when something changes at an increasing rate over time
-1. **factory system:** 
+1. **factory system:** people made goods with machines instead of by hand
 1. **hybrid electric vehicle:** combines the engine of a conventional vehicle with the battery and electric motor of an electric vehicle
-1. **Industrial Revolution:** people made goods with machines instead of by hand
+1. **Industrial Revolution:** the period of human history from the late 1700s until the mid-1900s where human and animal labor was replaced by machines
 1. **Information Age:** the period of human history beginning in 1947, continuing to the present, and marked by extremely rapid change
 1. **Iron Age:** 
 1. **linear rate of change:** when something changes at the same rate over time
