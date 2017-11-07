@@ -26,7 +26,7 @@
 1. **alloy:** a mixture of two or more metals
 1. **aqueduct:** a channel built to carry water
 1. **Bronze Age:** the era when bronze came into common use for weapons and tools
-1. **ethical dilemma:** a difficult decision that a person has to make about whether something is write or wrong
+1. **ethical dilemma:** a difficult decision that a person has to make about whether something is right or wrong
 1. **exponential rate of change:** when something changes at an increasing rate over time
 1. **factory system:** people made goods with machines instead of by hand
 1. **hybrid electric vehicle:** combines the engine of a conventional vehicle with the battery and electric motor of an electric vehicle
