@@ -36,3 +36,24 @@
 1. **linear rate of change:** when something changes at the same rate over time
 1. **smelting:** ore is melted to remove impurities
 1. **Stone Age:** the era when stone was used for weapons and tools
+
+## Chapter 3: Design and Problem Solving
+
+1. **engineering design:** 
+1. **informed design:** 
+1. **specification:** 
+1. **design brief:** 
+1. **constraint:** 
+1. **brainstorming:** 
+1. **scale model:** 
+1. **prototype:** 
+1. **mathematical model:** 
+1. **variable:** 
+1. **functionality:** 
+1. **quality:** 
+1. **ergonomics:** 
+1. **anthropometry:** 
+1. **aesthetics:** 
+1. **values:** 
+1. **risk/benefit trade-off:** 
+1. **probability:** 
