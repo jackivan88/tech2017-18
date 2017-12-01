@@ -54,6 +54,6 @@
 1. **ergonomics:** 
 1. **anthropometry:** 
 1. **aesthetics:** 
-1. **values:** 
-1. **risk/benefit trade-off:** 
-1. **probability:** 
+1. **values:** what we think is important
+1. **risk/benefit trade-off:** designers must accept some risk to obtain desired benefits, but they try to keep the risk as low as possible
+1. **probability:** the likelihood that something will take place
