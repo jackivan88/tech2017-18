@@ -58,6 +58,8 @@
 1. **risk/benefit trade-off:** designers must accept some risk to obtain desired benefits, but they try to keep the risk as low as possible
 1. **probability:** the likelihood that something will take place
 
+### Chinese (Simplified)
+
 1. **engineering design:** 一个系统的，创造性的，反复的处理挑战的过程
 1. **informed design:** 一种基于设计问题的知识进行选择的方法，并且在必要的时候随时在这个过程中的任何时刻改进或修改这些选择
 1. **specification:** 解决方案必须满足的性能要求
