@@ -12,7 +12,7 @@
 1. **natural world:** Earth, space, and all living things not created by humans
 1. **optimization:** choosing alternatives to make the solution work as well as it can
 1. **process:** a series of steps by which resources are changed into desired products
-1. **requirement:** features that define the performance of a system
+1. **requirement:** a feature that defines the performance of a system
 1. **resource:** any type of supply, service, or support
 1. **scientific inquiry:** observing and recording events and experimenting to test the effects of one thing on another
 1. **system:** a group of interrelated parts that work together to produce a desired result
@@ -39,21 +39,21 @@
 
 ## Chapter 3: Design and Problem Solving
 
-1. **engineering design:** 
-1. **informed design:** 
-1. **specification:** 
-1. **design brief:** 
-1. **constraint:** 
-1. **brainstorming:** 
-1. **scale model:** 
-1. **prototype:** 
-1. **mathematical model:** 
-1. **variable:** 
-1. **functionality:** 
-1. **quality:** 
-1. **ergonomics:** 
-1. **anthropometry:** 
-1. **aesthetics:** 
+1. **engineering design:** a systematic, creative, and iterative process for addressing challenges
+1. **informed design:** a method of making choices based on knowledge about the design problem, and coming back to refine or revise those choices at any point in the process as often as necessary
+1. **specification:** the performance requirements that the solution must fulfill
+1. **design brief:** states the problem and lists the specifications for a design
+1. **constraint:** the limits imposed on a design solution
+1. **brainstorming:** a method by which a person or group of people can come up with alternative solutions
+1. **scale model:** a larger or smaller model of an object with all parts in correct proportion to those of the object
+1. **prototype:** a full-scale, fully operational version of a solution
+1. **mathematical model:** equations describe how a product will function or perform
+1. **variable:** each factor that affects the performance of a design
+1. **functionality:** the capability of a product, system, or process to fulfill its intended purpose over the course of its desired life span
+1. **quality:** the degree of excellence with which a product is made
+1. **ergonomics:** the science of adapting the work environment to people
+1. **anthropometry:** the science of measuring people
+1. **aesthetics:** the study of the way something looks and how that affects people's feelings about it
 1. **values:** what we think is important
 1. **risk/benefit trade-off:** designers must accept some risk to obtain desired benefits, but they try to keep the risk as low as possible
 1. **probability:** the likelihood that something will take place
