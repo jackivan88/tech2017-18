@@ -57,3 +57,22 @@
 1. **values:** what we think is important
 1. **risk/benefit trade-off:** designers must accept some risk to obtain desired benefits, but they try to keep the risk as low as possible
 1. **probability:** the likelihood that something will take place
+
+1. **engineering design:** 一个系统的，创造性的，反复的处理挑战的过程
+1. **informed design:** 一种基于设计问题的知识进行选择的方法，并且在必要的时候随时在这个过程中的任何时刻改进或修改这些选择
+1. **specification:** 解决方案必须满足的性能要求
+1. **design brief:** 指出问题并列出设计的规格
+1. **constraint:** 对设计解决方案施加的限制
+1. **brainstorming:** 一个人或一群人可以提出替代解决方案的方法
+1. **scale model:** 一个物体的一个更大或更小的模型，其中所有的部分与物体的比例成正比
+1. **prototype:** 一个全面的，完全可操作的解决方案版本
+1. **mathematical model:** 等式描述产品将如何运作或执行
+1. **variable:** 每个影响设计性能的因素
+1. **functionality:** 产品，系统或过程在其预期寿命期间达到预期目的的能力
+1. **quality:** 产品的卓越程度
+1. **ergonomics:** 适应工作环境的科学
+1. **anthropometry:** 衡量人的科学
+1. **aesthetics:** 研究某种东西的外观以及如何影响人们对它的感受
+1. **values:** 我们认为重要
+1. **risk/benefit trade-off:** 设计师必须接受一定的风险才能获得理想的效益，但他们会尽量降低风险
+1. **probability:** 事情发生的可能性
