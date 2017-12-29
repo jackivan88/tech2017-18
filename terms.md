@@ -99,3 +99,21 @@
 1. **values:** 우리가 생각하는 것이 중요하다.
 1. **risk/benefit trade-off:** 설계자는 원하는 이익을 얻기 위해 일부 위험을 수용해야하지만 가능한 한 위험을 낮추려고합니다
 1. **probability:** 무언가가 일어날 가능성
+
+## Chapter 5: Resources for Technology
+
+1. **consumers:** 
+1. **capital:** 
+1. **stock:** 
+1. **dividends:** 
+1. **interest:** 
+1. **data:** 
+1. **nanoseconds:** 
+1. **renewable energy sources:** 
+1. **nonrenewable energy sources:** 
+1. **raw materials:** 
+1. **renewable raw materials:** 
+1. **nonrenewable raw materials:** 
+1. **synthetic materials:** 
+1. **labor costs:** 
+1. **composite:** 
