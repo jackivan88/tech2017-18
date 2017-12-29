@@ -102,13 +102,13 @@
 
 ## Chapter 5: Resources for Technology
 
-1. **consumers:** 
-1. **capital:** 
-1. **stock:** 
-1. **dividends:** 
-1. **interest:** 
-1. **data:** 
-1. **nanoseconds:** 
+1. **consumers:** those who buy products or services
+1. **capital:** any form of wealth
+1. **stock:** used by companies to raise capital by selling people a small piece of the company
+1. **dividends:** payments made to investors from a company's profits
+1. **interest:** a fee banks charge when a company borrows money
+1. **data:** raw facts and figures
+1. **nanoseconds:** billionths of a second
 1. **renewable energy sources:** 
 1. **nonrenewable energy sources:** 
 1. **raw materials:** 
